@@ -1,27 +1,6 @@
-# WP-API: Nav Menus and Widgets Endpoints
+# WordPress REST API Widgets Endpoints
 
-Feature plugin for Nav Menus and Widgets Endpoints
-
-
-Endpoints to define for menus:
-
-```
-GET  /menus
-POST  /menus
-GET  /menus/:id
-POST /menus/:id
-DELETE /menus/:id
-```
-
-Endpoints to define for menu items:
-
-```
-GET  /menu-items
-POST  /menu-items
-GET  /menu-items/:id
-POST /menu-items/:id
-DELETE /menu-items/:id
-```
+Feature plugin for Widgets Endpoints, split out from [wp-api/menus-endpoints](https://github.com/wp-api/menus-endpoints).
 
 Endpoints to define for widgets:
 

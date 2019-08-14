@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Manage Menu Items for a WordPress site
+ * Manage Widget Items for a WordPress site
  */
 class WP_REST_Widgets_Controller extends WP_REST_Controller {
 
